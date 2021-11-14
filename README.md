@@ -1,3 +1,4 @@
-Hello, 
+Hello,
 This is my Todo App!
-Eugene Kaunda
+The 3rd Edit.
+Qaunda Muka
